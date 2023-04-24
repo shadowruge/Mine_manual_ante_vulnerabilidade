@@ -1,0 +1,1 @@
+# Mine_manual_ante_vulnerabilidade
