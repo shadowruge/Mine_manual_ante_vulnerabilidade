@@ -2,6 +2,16 @@
 
 - Este mine manual é para direcionar estudos sobre o mesmo tema
 
+- Portas principais:
+
+    FTP: 20, 21, 115, 989, 990<br>
+    SSH: 22<br>
+    Telnet: 23<br>
+    E-mail: 25, 109, 110, 143, 220, 465, 587, 993, 995<br>
+    WEB: 80, 443<br>
+    Banco de dados: 1433, 1434, 1521, 1522, 2483, 2484, 3306, 5432<br>
+
+
 Aqui estão algumas das melhores ferramentas open-source para análise de rede:
 
     1. Wireshark:
