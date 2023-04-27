@@ -1,6 +1,6 @@
 # Mine manual anti vulnerabilidade
 
-- Este mine manual é paar direcionar estudos sobre o mesmo tema
+- Este mine manual é para direcionar estudos sobre o mesmo tema
 
 Aqui estão algumas das melhores ferramentas open-source para análise de rede:
 
