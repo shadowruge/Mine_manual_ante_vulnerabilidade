@@ -1,4 +1,4 @@
-# Mine manual anti vulnerabilidade
+# Mini manual anti vulnerabilidade
 
 - Este mine manual é para direcionar estudos sobre o mesmo tema
 
